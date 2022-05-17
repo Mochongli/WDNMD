@@ -12,4 +12,4 @@ jobs:
           # 下方的name格式为：Docker Hub ID/自定义镜像名称
           name: mochongli/wdnmd
           username: '${{ secrets.mochongli }}'
-          password: '${{ secrets.Mo123987! }}'
+          password: '${{ secrets.Mo123987nb }}'
